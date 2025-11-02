@@ -30,10 +30,10 @@
                 <div class="widget">
                     <h3>Links</h3>
                     <ul class="list-unstyled social">
-                        <li><a href="https://github.com/MrMKN"><span class="icon-github"></span></a></li>
-                        <li><a href="https://github.com/MrMKN"><span class="icon-facebook"></span></a></li>
-                        <li><a href="https://github.com/MrMKN"><span class="icon-linkedin"></span></a></li>
-                        <li><a href="https://github.com/MrMKN"><span class="icon-instagram"></span></a></li>
+                        <li><a href="#"><span class="icon-github"></span></a></li>
+                        <li><a href="#"><span class="icon-facebook"></span></a></li>
+                        <li><a href="#"><span class="icon-linkedin"></span></a></li>
+                        <li><a href="#"><span class="icon-instagram"></span></a></li>
                     </ul>
                 </div>
                 <!-- /.widget -->
@@ -50,7 +50,7 @@
                         document.write(new Date().getFullYear());
                     </script>
                     . All Rights Reserved. &mdash; Made By
-                    <a href="https://github.com/MrMKN">Pro Dev</a>
+                    <a href="">Pro Dev</a>
                 </p>
             </div>
         </div>
