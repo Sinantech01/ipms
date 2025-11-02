@@ -1,0 +1,22 @@
+.a
+{
+    color: brown;
+    margin-left: 25px;
+    margin-top: 10px;
+    
+}
+button
+{
+    margin-left: 25px;
+    border-radius: 25px;
+}
+.img1
+{
+    width: 1500px;
+    max-height: 200px;
+    border-radius: 25px;
+}
+.t
+{
+    color: red;
+}
